@@ -1,3 +1,3 @@
 MyApp
 
-This is my sample app
+Hello world, this is my sample app.
